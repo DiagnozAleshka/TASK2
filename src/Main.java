@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
 int x = 150;
-int a = 916;
+int a = 91;
 if (a>1000){
     int b = a/100;
     int c = x + a +b;
